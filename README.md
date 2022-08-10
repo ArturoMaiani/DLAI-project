@@ -1,0 +1,1 @@
+This projects deals with the study of the intrinsic dimension of objective landscapes through constraints applied in the space of network parameters. The investigation regards how many degrees of freedom (network parameters) are strictly necessary to solve a certain task almost as good as the standard unconstrained model.
