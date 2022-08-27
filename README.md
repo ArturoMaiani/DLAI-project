@@ -4,7 +4,7 @@ The code for this project is based on the notebook "Autograd and Modules" from t
 
 https://colab.research.google.com/github/erodola/DLAI-s2-2022/blob/main/labs/05/5_Autograd_and_Modules_2022.ipynb#scrollTo=VmFJ7hRMMFRL
 
-As in the notebook the selected task is the classification of hand written digits contained in the MNIST, by means of a MLP.
+The selected task for this project is the classification of hand written digits contained in the MNIST, by means of a MLP.
 
 
 The papers on which this project is based are the following:
